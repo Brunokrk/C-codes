@@ -1,5 +1,0 @@
-Conta: 2 ---- Emprestou: 500.000000
-Conta: 2 ---- Emprestou: 30.000000
-Conta: 2 ---- Emprestou: 2.000000
-Conta: 2 ---- Emprestou: 8.000000
-Conta: 2 ---- Emprestou: 10.000000
